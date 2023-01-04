@@ -20,7 +20,7 @@ def view_list():
 add_item("Take out the trash")
 add_item("Buy groceries")
 add_item("Do laundry")
-add_item("Make Dinner")
+add_item("Make lunch")
 
 # View the list
 view_list()
